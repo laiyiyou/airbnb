@@ -1,0 +1,171 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+#all {
+	width: 100%;
+	height: 1241px;
+	background-color: #DE2023;
+}
+
+#header {
+	width: 100%;
+	height: 600px;
+	background-color: #1BEB13;
+	
+}
+#header_nav {
+	width: 100%;
+	height: 47px;
+	background-color: red;
+	margin-bottom: 151px;
+} 
+#logo {
+	width: 125px;
+	height: 47px;
+	background-color: #4926D8;
+	float: left;
+	
+} 
+#header_navButtom {
+	width: 292px;
+	height: 47px;
+	background-color: #73828B;
+	float: right ;
+	
+} 
+#header_navButtomA {
+	width: 102px;
+	height: 47px;
+	background-color: #DFE519;
+	float: left;
+	
+} 
+#header_navButtomB {
+	width: 63px;
+	height: 47px;
+	background-color: #2316E8;
+	float: left;
+	
+} 
+#header_navButtomC {
+	width: 63px;
+	height: 47px;
+	background-color: #DBED11;
+	float: left;
+	
+} 
+#header_navButtomD {
+	width: 63px;
+	height: 47px;
+	background-color: #2316E8;
+	float: left;
+} 
+#home {
+	width: 357px;
+	height: 86px;
+	background-color: #E5194A;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 23px;
+}
+#home_search{
+	width: 174px;
+	height: 40px;
+	background-color: #98B24C;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 144px;
+}
+#search {
+	width: 100%;
+	height: 77px;
+	background-color: #368FC8;
+	padding-top:33px;
+}
+#searchBar {
+	width: 897px;
+	height: 44px;
+	background-color: #1FEC12;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#content {
+	width: 100%;
+	height: 641px;
+	background-color: #B51FDF;
+}
+#placeText{
+	width: 100%;
+	height: 151px;
+	background-color: #F1240D;
+}
+#placeAll{
+	width: 995px;
+	height: 344px;
+	background-color: #000000;
+	margin-right: auto;
+    margin-left: auto;
+}
+#place_picL{
+	width: 190px;
+	height: 194px;
+	background-color: #312FCF;
+	margin-right: 25px;
+	float: left;
+	padding-top: 150px;
+	padding-left: 125px;
+
+}
+#place_picLtext{
+	width: 66px;
+	height: 35px;
+	background-color: #EC4612;
+
+	
+}
+#place_picM{
+	width: 190px;
+	height: 194px;
+	background-color: #312FCF;
+	margin-right: 25px;
+	float: left;
+	padding-top: 150px;
+	padding-left: 125px;
+
+}
+#place_picMtext{
+	width: 66px;
+	height: 35px;
+	background-color: #EC4612;
+}
+#place_picR{
+	width: 190px;
+	height: 194px;
+	background-color: #312FCF;
+	float: left;
+	padding-top: 150px;
+	padding-left: 125px;
+}
+#place_picRtext{
+	width: 66px;
+	height: 35px;
+	background-color: #EC4612;
+}
+#placeText_down{
+	width: 100%;
+	height: 145px;
+	background-color: #1558E9;
+	padding-top:80px;
+}
+#down_buttom{
+	width: 314px;
+	height: 40px;
+	background-color: #45E31B;
+	margin-right: auto;
+    margin-left: auto;
+}
